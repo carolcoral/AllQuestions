@@ -7,7 +7,8 @@
 ### Description：
 
 
-```Description:
+```
+Description:
 
 Field redis in cn.xdl.ovls.user.service.UserServiceImpl required a bean of type 'org.springframework.data.redis.core.StringRedisTemplate' that could not be found.
 
@@ -21,14 +22,14 @@ Consider defining a bean of type 'org.springframework.data.redis.core.StringRedi
 ### Solve:
 
 ```
-    <!-- redis 缓存 -->
+    		<!-- redis 缓存 -->
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-redis</artifactId>
 			<!-- <version>1.5.1.RELEASE</version> -->
 		</dependency>
 
-    <!-- jedis -->
+    		<!-- jedis -->
 		<dependency>
 			<groupId>redis.clients</groupId>
 			<artifactId>jedis</artifactId>
