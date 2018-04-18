@@ -11,3 +11,5 @@
 ## Menus
 
 >1.[StringRedisTemplate无法找到](https://github.com/carolcoral/AllQuestions/blob/master/StringRedisTemplate无法找到.md)
+
+>2.[SSh远程连接报错警告](https://github.com/carolcoral/AllQuestions/blob/master/SSH%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98.md)
