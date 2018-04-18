@@ -13,3 +13,5 @@
 >1.[StringRedisTemplate无法找到](https://github.com/carolcoral/AllQuestions/blob/master/StringRedisTemplate无法找到.md)
 
 >2.[SSh远程连接报错警告](https://github.com/carolcoral/AllQuestions/blob/master/SSH%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98.md)
+
+>3.[虚拟机安装Linux操作系统常见问题和解决方案](https://github.com/carolcoral/AllQuestions/blob/master/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
