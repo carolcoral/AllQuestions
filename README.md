@@ -21,3 +21,5 @@
 >5.[Linux系统下mysql数据库忘记密码](https://github.com/carolcoral/AllQuestions/blob/master/Linux系统下mysql数据库忘记密码.md)
 
 >6.[测试环境项目部署出现的数据库版本不匹配问题解决方案](https://github.com/carolcoral/AllQuestions/blob/master/测试环境项目部署出现的数据库版本不匹配问题解决方案.md)
+
+>7.[python2.7在linux系统上使用import导入module失败的解决方法](https://github.com/carolcoral/AllQuestions/blob/master/python2.7%E5%9C%A8linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E4%BD%BF%E7%94%A8import%E5%AF%BC%E5%85%A5module%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
